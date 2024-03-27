@@ -10,6 +10,15 @@ BodyWorky a fitness app utilizing clean architecture and Flutter state managemen
 - __Progress Visualization :__ Interactive graphs and charts for tracking workout progress.<br>
 
 ## 🤩 Designs:
+<div style = ""> 
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/1.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/2.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/3.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/4.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/5.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/6.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/BodyWorky/blob/main/images/7.jpg" width="32%"/>
+</div>
 
 
 ## 📱 Technologies / Tools used for building this app includes:
